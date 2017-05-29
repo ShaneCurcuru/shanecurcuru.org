@@ -1,0 +1,80 @@
+url: http://shanecurcuru.github.io
+projectUrl: shanecurcuru.org
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Shane Curcuru
+  depiction: headshot.png
+  profession: Open Source Community And Branding
+  location: Boston, MA
+  citizenship: USA
+  email: card@shanecurcuru.org
+  site: http://communityovercode.com
+  phone: 
+  github: /shanecurcuru
+  stackoverflow:
+
+career:
+ - position: Open Source Evangelist
+   company: 
+   location: 
+   dates: September 2004 - current
+   summary: Cupcake ipsum dolor. Sit amet gingerbread caramels pudding. Biscuit oat cake danish oat cake pudding biscuit danish.
+   accomplishments:
+    - accomplishment: Lemon drops soufflé jelly beans cake brownie halvah bonbon ice cream.
+    - accomplishment: Muffin cookie caramels sugar plum marzipan cheesecake dragée.
+ - position: Unfinished Website Designer
+   company: Intellectual Dilettantes, Inc.
+   location: Squirrel!
+   dates: A lifetime
+   summary: Bear claw macaroon gingerbread biscuit jelly-o. Lollipop apple pie chocolate bar croissant cookie. Powder biscuit bonbon pudding soufflé jelly-o gummi bears ice cream. Apple pie cupcake danish dessert.
+   accomplishments:
+    - accomplishment: Tootsie roll candy canes oat cake sweet danish gummi bears muffin apple pie topping.
+    - accomplishment: Chupa chups fruitcake fruitcake cookie tart.
+
+   
+ biscuit jelly-o.  croissant cookie. Powder biscuit bonbon pudding soufflé jelly-o gummi bears ice cream. Apple pie cupcake danish dessert.
+ carrot cake cookie. 
+ macaroon caramels carrot cake bonbon marzipan. Sesame snaps topping chocolate tootsie roll cupcake sweet roll. Muffin cotton candy icing sesame snaps jujubes brownie jelly.
+
+
+technicalSkills:
+  list:
+    - tr: "Bear claw macaroon gingerbread"
+    - tr: "Lollipop apple pie chocolate bar"
+    - tr: "Jelly cake cotton candy bonbon icing"
+  backend:
+   - name: Community
+     level: 90
+   - name: Management
+     level: 80
+  frontend:
+   - name: Trademark
+     level: 80
+   - name: FOSSBrands
+     level: 90
+  other:
+   - name: Baking
+     level: 90
+   - name: Wedding Cakes
+     level: 100
+
+sideProjects:
+  - name: Muffin pastry wafer
+    description: Marzipan dragée halvah halvah lollipop. Tart gummi bears danish tart pastry.
+    link: https://github.com/shanecurcuru/shanecurcuru.org
+    type: github
+    langs: HTML/Sugar/Flour/Eggs
+
+  - name: Apache Community Development
+    description: Powder biscuit bonbon pudding soufflé jelly-o gummi bears ice cream. Apple pie cupcake danish dessert.
+    link: http://community.apache.org/
+    type: site
+    langs: Committer/Member/Officer/Director
+
+education:
+  - name: Cake Academy
+    degree: Baked own wedding cake
+    location: Fields of home
+    dates: 1990-2010
+    link: http://theapacheway.com/
