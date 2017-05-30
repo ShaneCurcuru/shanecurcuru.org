@@ -14,6 +14,11 @@ body{
   padding: 50px 50px 20px;
   background-color: #ddd;
 }
+
+.header i[class~=fa] {
+  margin-right: 5px;
+}
+
 .section{
   padding: 20px 50px;
   border-top: 1px solid lightblue;

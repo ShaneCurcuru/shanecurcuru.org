@@ -9,66 +9,104 @@ person:
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
-  site: http://communityovercode.com
+  sites: 
+    - communityovercode.com
+    - theapacheway.com
+    - shaneslides.com
   phone: 
-  github: /shanecurcuru
+
+social:
+  github: https://github.com/ShaneCurcuru
   stackoverflow:
+  google-plus: https://plus.google.com/+shanecurcuru
+  instagram: https://www.instagram.com/shanecurcuru/
+  linkedin: https://www.linkedin.com/in/ShaneCurcuru
+  paypal: 
+  slideshare: https://www.slideshare.net/shanecurcuru
+  medium: https://medium.com/@shanecurcuru
+  twitter: https://twitter.com/ShaneCurcuru
+  meetup: 
+  skype: 
+  stack-exchange: https://stackexchange.com/users/7027028/shane-curcuru
+  key: https://keybase.io/shanecurcuru
 
 career:
- - position: Open Source Evangelist
-   company: 
-   location: 
-   dates: September 2004 - current
-   summary: Cupcake ipsum dolor. Sit amet gingerbread caramels pudding. Biscuit oat cake danish oat cake pudding biscuit danish.
+ - position: Director
+   company: The Apache Software Foundation
+   location: www.apache.org
+   dates: 2009-2011, 2013, 2015 - Current
+   summary: Set core corporate policies, define budget, and appoint corporate officers to manage a million dollar non-profit organization with a billion+ dollar impact on the software industry.
    accomplishments:
-    - accomplishment: Lemon drops soufflé jelly beans cake brownie halvah bonbon ice cream.
-    - accomplishment: Muffin cookie caramels sugar plum marzipan cheesecake dragée.
- - position: Unfinished Website Designer
-   company: Intellectual Dilettantes, Inc.
-   location: Squirrel!
-   dates: A lifetime
-   summary: Bear claw macaroon gingerbread biscuit jelly-o. Lollipop apple pie chocolate bar croissant cookie. Powder biscuit bonbon pudding soufflé jelly-o gummi bears ice cream. Apple pie cupcake danish dessert.
+    - accomplishment: Documenting Apache's governance and project behaviors in the Apache Way.
+    - accomplishment: Mentoring podlings and project communities on effective community management.
+ - position: Vice President, Brand Management
+   company: The Apache Software Foundation
+   location: www.apache.org
+   dates: 2009 - Current
+   summary: Define and implement brand and trademark policy for the ASF, including 180+ Apache top level projects Incubator podlings, spanning the gamut from Apache Hadoop to Apache OpenOffice.
    accomplishments:
-    - accomplishment: Tootsie roll candy canes oat cake sweet danish gummi bears muffin apple pie topping.
-    - accomplishment: Chupa chups fruitcake fruitcake cookie tart.
+    - accomplishment: Providing accessible and actionable training for community-run brands to encourage new contributors.
+    - accomplishment: Setting the tone for open source trademark policies and community-led policing techniques.
+    - accomplishment: Negotiating for the credit Apache communities deserve with highly competitive for-profit companies.
+ - position: Application Architect
+   company: IBM
+   location: Cambridge, MA
+   dates: 2004 - 2016
+   summary: Process consulting and application architecture development; making user-friendly tools for complex global HR business processes.
+   accomplishments:
+    - accomplishment: Led development of harmonization tooling to recommend effective ways to normalize common HR policies worldwide across multiple IBM companies.
+    - accomplishment: Met complex and poorly-defined needs of multiple non-technical teams while keeping customer satisfaction high.
 
-technicalSkills:
+
+skills:
   list:
     - tr: "Bear claw macaroon gingerbread"
     - tr: "Lollipop apple pie chocolate bar"
     - tr: "Jelly cake cotton candy bonbon icing"
-  backend:
-   - name: Community
-     level: 90
-   - name: Management
-     level: 80
-  frontend:
-   - name: Trademark
-     level: 80
-   - name: FOSSBrands
-     level: 90
-  other:
-   - name: Baking
-     level: 90
-   - name: Wedding Cakes
+  users:
+   - name: The Apache Way
      level: 100
+   - name: FOSS Nonprofit Policies
+     level: 80
+  registered:
+   - name: Open Source Brands
+     level: 70
+   - name: Software Trademarks
+     level: 90
+  magic:
+   - name: Wedding Cake Baking
+     level: 80
+   - name: Cat Whisper
+     level: 95
 
 sideProjects:
-  - name: Muffin pastry wafer
-    description: Marzipan dragée halvah halvah lollipop. Tart gummi bears danish tart pastry.
-    link: https://github.com/shanecurcuru/shanecurcuru.org
-    type: github
-    langs: HTML/Sugar/Flour/Eggs
+  - name: The Apache Way
+    description: Explaining the techniques and behaviors used by Apache projects to draw in new contributors and provide healthy community governance.
+    link: http://theapacheway.com/
+    type: bolt
+    langs: Effective Open Source Project Management
 
-  - name: Apache Community Development
-    description: Powder biscuit bonbon pudding soufflé jelly-o gummi bears ice cream. Apple pie cupcake danish dessert.
-    link: http://community.apache.org/
-    type: site
-    langs: Committer/Member/Officer/Director
+  - name: Apache Trademark Policies
+    description: Explaining trademark law for open source projects and their developers, and defining comprehensive Apache policies.
+    link: https://www.apache.org/foundation/marks/resources
+    type: leaf
+    langs: Open Source Trademarks Explained
+
+  - name: Community Over Code
+    description: Blogging on how Apache projects really work, and how you can lead better open source communities.
+    link: http://communityovercode.com/
+    type: heart
+    langs: Perspectives On Healthy Communities
+
+  - name: Shane's Slides
+    description: Presentations and videos from community and trademark sesssions at ApacheCon, OSCON, All Things Open, and more.
+    link: http://shaneslides.com/
+    type: university
+    langs: Actionable Education For Communities
 
 education:
   - name: Cake Academy
     degree: Baked own wedding cake
     location: Fields of home
     dates: 1990-2010
-    link: http://theapacheway.com/
+    link: http://whyilovetheasf.com/
