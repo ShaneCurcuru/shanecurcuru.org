@@ -60,9 +60,9 @@ career:
 
 skills:
   list:
-    - tr: "Bear claw macaroon gingerbread"
-    - tr: "Lollipop apple pie chocolate bar"
-    - tr: "Jelly cake cotton candy bonbon icing"
+    - tr: "Quickly understanding and documenting community behaviors"
+    - tr: "Explaining trademak law for open source in practical terms"
+    - tr: "Translating between technical, business, and community aspects"
   users:
    - name: The Apache Way
      level: 100
@@ -76,7 +76,7 @@ skills:
   magic:
    - name: Wedding Cake Baking
      level: 80
-   - name: Cat Whisper
+   - name: Cat Whisperer
      level: 95
 
 sideProjects:
