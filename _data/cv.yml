@@ -5,7 +5,7 @@ projectUrl: shanecurcuru.org
 person:
   name: Shane Curcuru
   depiction: headshot.png
-  profession: Open Source Community And Branding
+  profession: Open Source Branding And Community Expertise
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
@@ -13,6 +13,8 @@ person:
     - communityovercode.com
     - theapacheway.com
     - shaneslides.com
+  flags:
+    - punderthings.com
   phone: 
 
 social:

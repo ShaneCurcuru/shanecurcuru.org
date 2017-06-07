@@ -68,6 +68,9 @@
           {% for site in site.data.cv.person.sites %}
             <li><i class="fa fa-laptop"></i><a href="http://{{ site }}">{{ site }}</a></li>
           {% endfor %}
+          {% for flag in site.data.cv.person.flags %}
+            <li><i class="fa fa-flag-checkered"></i><a href="http://{{ flag }}">{{ flag }}</a></li>
+          {% endfor %}
           {% if site.data.cv.person.phone %}
             <li><i class="fa fa-phone"></i> {{site.data.cv.person.phone}}</li>
           {% endif%}
@@ -219,9 +222,12 @@
           <h3>Credits</h3>
         </div>
         <div class="col-xs-9">
-          Copyright &copy; 2017 Shane Curcuru  |  License: <a rel="license" href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>
-          <br/>
-          Powered by: <a href="https://github.com/streetturtle/jekyll-cv-crafter" rel="nofollow">streetturtle/jekyll-cv-crafter</a>, <a href="http://fontawesome.io" rel="nofollow">Font Awesome by Dave Gandy</a>, <a href="http://www.juliancash.com/" rel="nofollow">Julian Cash Photography</a>
+          <p>
+            <br/>
+            Copyright &copy; 2017 Shane Curcuru  |  License: <a rel="license" href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>
+            <br/>
+            Powered by: <a href="https://github.com/streetturtle/jekyll-cv-crafter" rel="nofollow">streetturtle/jekyll-cv-crafter</a>, <a href="http://fontawesome.io" rel="nofollow">Font Awesome by Dave Gandy</a>, <a href="http://www.juliancash.com/" rel="nofollow">Julian Cash Photography</a>
+          </p>
         </div>
       </div>
     </div>
