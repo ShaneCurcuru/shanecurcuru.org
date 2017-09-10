@@ -15,6 +15,7 @@ person:
     - shaneslides.com
   flags:
     - punderthings.com
+    - chooseafoundation.com
   phone: 
 
 social:
@@ -63,7 +64,7 @@ career:
 skills:
   list:
     - tr: "Quickly understanding and documenting community behaviors"
-    - tr: "Explaining trademak law for open source in practical terms"
+    - tr: "Explaining practical trademak law for open source projects"
     - tr: "Translating between technical, business, and community aspects"
   users:
    - name: The Apache Way
@@ -82,6 +83,12 @@ skills:
      level: 95
 
 sideProjects:
+  - name: Choose A Foundation
+    description: Helping you take your open source project to the next level: advice on governance and FOSS Foundations.
+    link: http://chooseafoundation.com/
+    type: flag-checkered
+    langs: Open Source Governance Explainer
+
   - name: The Apache Way
     description: Explaining the techniques and behaviors used by Apache projects to draw in new contributors and provide healthy community governance.
     link: http://theapacheway.com/
