@@ -84,7 +84,7 @@ skills:
 
 sideProjects:
   - name: Choose A Foundation
-    description: Helping you take your open source project to the next level: advice on governance and FOSS Foundations.
+    description: Helping you take your open source project to the next level - advice on governance and FOSS Foundations.
     link: http://chooseafoundation.com/
     type: flag-checkered
     langs: Open Source Governance Explainer
