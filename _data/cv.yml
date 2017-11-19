@@ -5,7 +5,7 @@ projectUrl: shanecurcuru.org
 person:
   name: Shane Curcuru
   depiction: headshot.png
-  profession: Open Source Branding And Community Expertise
+  profession: Open Source Strategy & Branding Consultant
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
@@ -49,7 +49,7 @@ career:
    summary: Define and implement brand and trademark policy for the ASF, including 180+ Apache top level projects Incubator podlings, spanning the gamut from Apache Hadoop to Apache OpenOffice.
    accomplishments:
     - accomplishment: Providing accessible and actionable training for community-run brands to encourage new contributors.
-    - accomplishment: Setting the tone for open source trademark policies and community-led policing techniques.
+    - accomplishment: Implementing Apache-wide open source trademark policies and community-led policing techniques.
     - accomplishment: Negotiating for the credit Apache communities deserve with highly competitive for-profit companies.
  - position: Application Architect
    company: IBM
@@ -64,16 +64,16 @@ career:
 skills:
   list:
     - tr: "Quickly understanding and documenting community behaviors"
-    - tr: "Explaining practical trademak law for open source projects"
-    - tr: "Translating between technical, business, and community aspects"
+    - tr: "Explaining practical trademak law for open source brands"
+    - tr: "Translating between technical, business, legal, and community aspects"
   users:
    - name: The Apache Way
      level: 100
    - name: FOSS Nonprofit Policies
      level: 80
   registered:
-   - name: Open Source Brands
-     level: 70
+   - name: Open Source Strategy
+     level: 80
    - name: Software Trademarks
      level: 90
   magic:
@@ -83,6 +83,12 @@ skills:
      level: 95
 
 sideProjects:
+  - name: Punderthings Consulting
+    description: Want to reduce risk, speed innovation, and improve retention with open source products? Hire Punderthings Consulting!
+    link: http://punderthings.com/
+    type: diamond
+    langs: Better Ways To Engage With Open Source
+
   - name: Choose A Foundation
     description: Helping you take your open source project to the next level - advice on governance and FOSS Foundations.
     link: http://chooseafoundation.com/
@@ -93,7 +99,7 @@ sideProjects:
     description: Explaining the techniques and behaviors used by Apache projects to draw in new contributors and provide healthy community governance.
     link: http://theapacheway.com/
     type: bolt
-    langs: Effective Open Source Project Management
+    langs: Effective FOSS Project Management
 
   - name: Apache Trademark Policies
     description: Explaining trademark law for open source projects and their developers, and defining comprehensive Apache policies.
@@ -111,7 +117,7 @@ sideProjects:
     description: Presentations and videos from community and trademark sesssions at ApacheCon, OSCON, All Things Open, and more.
     link: http://shaneslides.com/
     type: university
-    langs: Actionable Education For Communities
+    langs: Actionable Education In FOSS
 
 education:
   - name: Cake Academy
