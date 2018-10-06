@@ -16,6 +16,7 @@ person:
   flags:
     - punderthings.com
     - chooseafoundation.com
+    - tldrfoss.com
   phone: 
 
 social:
@@ -34,6 +35,13 @@ social:
   key: https://keybase.io/shanecurcuru
 
 career:
+ - position: Vice Chairman
+   company: The Apache Software Foundation
+   location: www.apache.org
+   dates: 2018 - Current
+   summary: Assist with board meetings and improve cross-Foundation communications.
+   accomplishments:
+    - accomplishment: Implementing improved escalation and issue resolution at the Foundation level, across Apache projects and operations.
  - position: Director
    company: The Apache Software Foundation
    location: www.apache.org
@@ -118,6 +126,13 @@ sideProjects:
     link: http://shaneslides.com/
     type: university
     langs: Actionable Education In FOSS
+
+  - name: TL;DR FOSS
+    description: Simple explanations of open source concepts and curated education about FOSS.
+    link: http://tldrfoss.com/
+    type: question
+    langs: Explain FOSS Like I'm Five
+
 
 education:
   - name: Cake Academy
