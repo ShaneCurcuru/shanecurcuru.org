@@ -91,6 +91,12 @@ skills:
      level: 95
 
 sideProjects:
+  - name: Mutual Aid Arlington
+    description: Coordinating all the great volunteer groups in my town during Coronavirus lockdowns.
+    link: https://MutualAidArlington.org/?sc
+    type: hands-helping
+    langs: Neighbors Helping Neighbors
+
   - name: Punderthings Consulting
     description: Want to reduce risk, speed innovation, and improve retention with open source products? Hire Punderthings Consulting!
     link: http://punderthings.com/
