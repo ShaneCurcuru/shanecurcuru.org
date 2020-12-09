@@ -5,7 +5,7 @@ projectUrl: shanecurcuru.org
 person:
   name: Shane Curcuru
   depiction: headshot.png
-  profession: Open Source Strategy & Branding Consultant
+  profession: Open Source Strategy, Branding, and Governance Consultant
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
@@ -20,19 +20,18 @@ person:
   phone: 
 
 social:
-  github: https://github.com/ShaneCurcuru
-  stackoverflow:
-  google-plus: https://plus.google.com/+shanecurcuru
-  instagram: https://www.instagram.com/shanecurcuru/
   linkedin: https://www.linkedin.com/in/ShaneCurcuru
+  github: https://github.com/ShaneCurcuru
+  twitter: https://twitter.com/ShaneCurcuru
+  key: https://keybase.io/shanecurcuru
+  stackoverflow:
+  instagram: https://www.instagram.com/shanecurcuru/
   paypal: 
   slideshare: https://www.slideshare.net/shanecurcuru
   medium: https://medium.com/@shanecurcuru
-  twitter: https://twitter.com/ShaneCurcuru
   meetup: 
   skype: 
   stack-exchange: https://stackexchange.com/users/7027028/shane-curcuru
-  key: https://keybase.io/shanecurcuru
 
 career:
  - position: Vice Chairman
@@ -42,6 +41,7 @@ career:
    summary: Assist with board meetings and improve cross-Foundation communications.
    accomplishments:
     - accomplishment: Implementing improved escalation and issue resolution at the Foundation level, across Apache projects and operations.
+    - accomplishment: Serving as a spokesperson for the ASF and Apache policies, with communities, companies, and countries.
  - position: Director
    company: The Apache Software Foundation
    location: www.apache.org
@@ -91,17 +91,11 @@ skills:
      level: 95
 
 sideProjects:
-  - name: Mutual Aid Arlington
-    description: Coordinating all the great volunteer groups in my town during Coronavirus lockdowns.
-    link: https://MutualAidArlington.org/?sc
-    type: hands-helping
-    langs: Neighbors Helping Neighbors
-
-  - name: Punderthings Consulting
-    description: Want to reduce risk, speed innovation, and improve retention with open source products? Hire Punderthings Consulting!
-    link: http://punderthings.com/
-    type: diamond
-    langs: Better Ways To Engage With Open Source
+  - name: Practical Open Source Trademarks
+    description: Explaining trademark law for open source projects and their developers, and defining comprehensive Apache policies.
+    link: http://shaneslides.com/2017/05/Practical-Trademark-Law/
+    type: leaf
+    langs: FOSS Trademarks and Brands Explained
 
   - name: Choose A Foundation
     description: Helping you take your open source project to the next level - advice on governance and FOSS Foundations.
@@ -115,12 +109,6 @@ sideProjects:
     type: bolt
     langs: Effective FOSS Project Management
 
-  - name: Apache Trademark Policies
-    description: Explaining trademark law for open source projects and their developers, and defining comprehensive Apache policies.
-    link: https://www.apache.org/foundation/marks/resources
-    type: leaf
-    langs: Open Source Trademarks Explained
-
   - name: Community Over Code
     description: Blogging on how Apache projects really work, and how you can lead better open source communities.
     link: http://communityovercode.com/
@@ -128,7 +116,7 @@ sideProjects:
     langs: Perspectives On Healthy Communities
 
   - name: Shane's Slides
-    description: Presentations and videos from community and trademark sesssions at ApacheCon, OSCON, All Things Open, and more.
+    description: Presentations and videos from community and trademark sesssions at ApacheCon, FOSS Backstage, OSCON, All Things Open, and more.
     link: http://shaneslides.com/
     type: university
     langs: Actionable Education In FOSS
@@ -138,6 +126,18 @@ sideProjects:
     link: http://tldrfoss.com/
     type: question
     langs: Explain FOSS Like I'm Five
+
+  - name: Punderthings Consulting
+    description: Want to reduce risk, speed innovation, and improve retention with open source products? Hire Punderthings Consulting!
+    link: http://punderthings.com/
+    type: diamond
+    langs: Better Ways To Engage With Open Source
+
+  - name: Mutual Aid Arlington
+    description: Coordinating all the great volunteer groups in my town during Coronavirus lockdowns.
+    link: https://MutualAidArlington.org/?sc
+    type: hands-helping
+    langs: Neighbors Helping Neighbors
 
 
 education:
