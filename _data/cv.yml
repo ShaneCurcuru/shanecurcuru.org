@@ -5,7 +5,7 @@ projectUrl: shanecurcuru.org
 person:
   name: Shane Curcuru
   depiction: headshot.png
-  profession: Open Source Strategy, Branding, and Governance Consultant
+  profession: Cannabis Startup Co-Founder; Open Source Strategy & Branding Consultant
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
@@ -34,6 +34,11 @@ social:
   stack-exchange: https://stackexchange.com/users/7027028/shane-curcuru
 
 career:
+ - position: Co-Founder & President
+   company: Glassful Enterprises
+   location: glassful.buzz
+   dates: 2020 - Current
+   summary: Co-Founder of a patent-pending cannabis startup; seeking funding and advisors; go-to-market mid-2022.
  - position: Vice Chairman
    company: The Apache Software Foundation
    location: www.apache.org
