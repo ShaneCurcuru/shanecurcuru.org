@@ -96,11 +96,23 @@ skills:
      level: 95
 
 sideProjects:
+  - name: FOSS Foundations Metadata Directory
+    description: Organizing data about critical FOSS hosts for research and practice alike.
+    link: https://fossfoundation.info/
+    type: database
+    langs: Showcasing open source organizations
+
   - name: Practical Open Source Trademarks
     description: Explaining trademark law for open source projects and their developers, and defining comprehensive Apache policies.
     link: http://shaneslides.com/2017/05/Practical-Trademark-Law/
     type: leaf
     langs: FOSS Trademarks and Brands Explained
+
+  - name: FOSS Sustainability
+    description: Working on sustainability of the communities that build the technology we use every day.
+    link: https://fosssustainability.com/
+    type: dollar-sign
+    langs: Much more than pay the maintainers
 
   - name: Choose A Foundation
     description: Helping you take your open source project to the next level - advice on governance and FOSS Foundations.
@@ -134,16 +146,9 @@ sideProjects:
 
   - name: Punderthings Consulting
     description: Want to reduce risk, speed innovation, and improve retention with open source products? Hire Punderthings Consulting!
-    link: http://punderthings.com/
+    link: https://punderthings.com/
     type: diamond
     langs: Better Ways To Engage With Open Source
-
-  - name: Mutual Aid Arlington
-    description: Coordinating all the great volunteer groups in my town during Coronavirus lockdowns.
-    link: https://MutualAidArlington.org/?sc
-    type: hands-helping
-    langs: Neighbors Helping Neighbors
-
 
 education:
   - name: Cake Academy
