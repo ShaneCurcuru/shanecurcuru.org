@@ -5,7 +5,7 @@ projectUrl: shanecurcuru.org
 person:
   name: Shane Curcuru
   depiction: headshot.png
-  profession: Cannabis Startup Co-Founder; Open Source Strategy & Branding Consultant
+  profession: Cannabis Startup Co-Founder; Open Source Strategy; Nonprofit Governance
   location: Boston, MA
   citizenship: USA
   email: card@shanecurcuru.org
@@ -34,16 +34,21 @@ social:
   stack-exchange: https://stackexchange.com/users/7027028/shane-curcuru
 
 career:
+ - position: Director
+   company: Your Arlington
+   location: yourarlington.org
+   dates: 2023 - Current
+   summary: Helping our hometown hyperlocal news website turn into a long-term sustainable nonprofit.
  - position: Co-Founder & President
    company: Glassful Enterprises
    location: glassful.buzz
    dates: 2020 - Current
-   summary: Co-Founder of a patent-pending cannabis startup; seeking funding and advisors; go-to-market mid-2022.
+   summary: Co-Founder of a (two) patent-pending cannabis startup; seeking funding and advisors; go-to-market by 2025.
  - position: Vice Chairman
    company: The Apache Software Foundation
    location: www.apache.org
-   dates: 2018 - Current
-   summary: Assist with board meetings and improve cross-Foundation communications.
+   dates: 2018 - 2021
+   summary: Assist board meetings processes and improve cross-Foundation communications.
    accomplishments:
     - accomplishment: Implementing improved escalation and issue resolution at the Foundation level, across Apache projects and operations.
     - accomplishment: Serving as a spokesperson for the ASF and Apache policies, with communities, companies, and countries.
@@ -65,9 +70,9 @@ career:
     - accomplishment: Implementing Apache-wide open source trademark policies and community-led policing techniques.
     - accomplishment: Negotiating for the credit Apache communities deserve with highly competitive for-profit companies.
  - position: Application Architect
-   company: IBM
+   company: IBM and Lotus Development
    location: Cambridge, MA
-   dates: 2004 - 2016
+   dates: 1980's - 2016
    summary: Process consulting and application architecture development; making user-friendly tools for complex global HR business processes.
    accomplishments:
     - accomplishment: Led development of harmonization tooling to recommend effective ways to normalize common HR policies worldwide across multiple IBM companies.
