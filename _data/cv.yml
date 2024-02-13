@@ -15,6 +15,7 @@ person:
     - shaneslides.com
   flags:
     - punderthings.com
+    - fossfoundation.info
     - chooseafoundation.com
     - tldrfoss.com
   phone: 
@@ -101,6 +102,12 @@ skills:
      level: 95
 
 sideProjects:
+  - name: Local Nonprofit News Directory
+    description: Metadata directory surveying hyperlocal nonprofit news organizations.
+    link: https://arlingtonma.info/local-news-orgs/
+    type: database
+    langs: Understanding hyperlocal news finances
+
   - name: FOSS Foundations Metadata Directory
     description: Organizing data about critical FOSS hosts for research and practice alike.
     link: https://fossfoundation.info/
